@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sentence-transformers
+pypdf
+python-dotenv
+numpy
+streamlit
+langchain
+langchain-google-genai
+langchain-text-splitters
+requests
+msgpack
+python-multipart

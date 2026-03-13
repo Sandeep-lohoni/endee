@@ -28,5 +28,13 @@ data/*
 frontend/
 frontend/*
 
+# Keep the research assistant app's nested frontend and data folders trackable
+!endee-rag-assistant/frontend/
+!endee-rag-assistant/frontend/*
+!endee-rag-assistant/frontend/**
+!endee-rag-assistant/data/
+!endee-rag-assistant/data/*
+!endee-rag-assistant/data/**
+
 # DS Store
 .DS_Store
